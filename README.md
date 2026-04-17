@@ -1,16 +1,29 @@
-# Introduction to GitHub
+# Hi there, I'm DarkYa6969 👋
 
-<img src="https://octodex.github.com/images/Professortocat_v2.png" align="right" height="200px" />
+🎨 **香港藝術審美學習者 | 創業探索者**
 
-Hey DarkYa6969!
+目前正在：
+- 系統學習視覺審美、顏色心理學、構圖原則
+- 把美學思維應用到個人開發與創業項目
+- 用 GitHub 記錄學習筆記、靈感收集與作品進度
 
-Mona here. I'm done preparing your exercise. Hope you enjoy! 💚
-
-Remember, it's self-paced so feel free to take a break! ☕️
-
-[![](https://img.shields.io/badge/Go%20to%20Exercise-%E2%86%92-1f883d?style=for-the-badge&logo=github&labelColor=197935)](https://github.com/DarkYa6969/DarkYa6969/issues/1)
+🌟 **我的目標**  
+做出兼具**美感**與**實用性**的產品或內容，讓普通人也能感受到設計的力量。
 
 ---
 
-&copy; 2025 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
+### 目前學習重點
+- 藝術審美基礎（構圖、色彩、留白）
+- 設計靈感收集與分析
+- GitHub 作為個人知識庫與作品展示平台
 
+### 歡迎交流
+- 藝術 / 設計 / 創業想法
+- 想一起討論 moodboard 或產品視覺風格
+
+---
+
+**「美不是裝飾，而是思考方式。」**  
+— 正在實踐中
+
+![Octocat](https://octodex.github.com/images/Professortocat_v2.png)
